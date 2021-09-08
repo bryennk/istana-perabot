@@ -1,0 +1,15 @@
+/*hape*/
+@media (max-width: 670px) {
+width: 100%;
+
+main h1{
+  font-size: 2px;
+}
+
+
+}
+
+/* tablet*/
+@media (max-width: 1000px) {
+width :100%;
+}
