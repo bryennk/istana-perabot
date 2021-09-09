@@ -27,16 +27,66 @@
     font-size: 100px;
   }
 
-.header-menu {
+ .header-menu {
   display: none;
-}
+ }
 
-.menu-icon {
+ .menu-icon {
   display: block;
-}
+  height: 100px;
+  width: 50px;
+  margin:0auto;
+ }
  
+ .container-body {
+   padding: 310px 0px 80px 0px;
+   
+   
+ }
+ 
+ body h3 {
+  font-size: 20px;
+  padding-top: 10px;
+}
 
 
+ .btn-shopee {
+   width: 300px;
+   height: 80px;
+
+  }
+ .btn-shopee a {
+  font-size: 25px;
+
+ }
+ .shopeelogo {
+   height: 50px;
+ }
+
+
+ .btn-whatsapp {
+   width: 300px;
+ }
+ .btn-whatsapp a{
+   font-size: 25px;
+ }
+
+ .btn-ig {
+   width: 300px;
+   
+ }
+
+ .btn-ig a {
+   font-size: 25px;
+ }
+
+
+
+ .container-footer p {
+   padding-top: 50px;
+   font-size: 10px;
+   
+ }
 }
 
 /* tablet*/
