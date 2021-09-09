@@ -1,10 +1,40 @@
 /*hape*/
 @media (max-width: 670px) {
-width: 100%;
+  
+ main {
+  height: 100px;
+  
+ }
 
-main h1{
-  font-size: 2px;
+
+
+  .background-image {
+    width: 100%;
+  }
+
+
+  main h1 {
+  font-size: 40px;
+  text-align: left;
+  line-height: 70px;
+  }
+
+  main p {
+    font-size: 20px;
+  }
+
+  span {
+    font-size: 100px;
+  }
+
+.header-menu {
+  display: none;
 }
+
+.menu-icon {
+  display: block;
+}
+ 
 
 
 }
