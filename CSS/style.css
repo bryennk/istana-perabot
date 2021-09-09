@@ -15,11 +15,15 @@
   font-size: 20px;
   padding-right: 50px;
   font-weight: bold;
+ 
 }
 .header-menu {
   float:right;
   padding-top: 10px;
+  color: white;
 }
+
+
 
 .container-header {
   width: 100%;
@@ -36,6 +40,8 @@
 /* menu three stripes */
 .menu-icon {
   display: none;
+  float: right;
+  padding-top: 10px;
 }
 
 /** Background image **/
@@ -97,21 +103,21 @@ body h3 {
 .btn1 {
   
   text-align: center; 
-  padding-top: 20px;
+
 
 }
 
 
 .btn2 {
   text-align: center;
-  padding-top: 20px;
+ 
 
 }
 
 .btn3 {
   text-align: center;
   padding-top: 20px;
-  padding-bottom: 20px;
+  
 }
 
 /* shopee link */
@@ -119,6 +125,12 @@ body h3 {
   background-color:rgb(243, 102, 0);
   box-shadow: 0px 10px rgb(185, 70, 28);
   cursor: pointer;
+
+  color: white;
+  
+
+
+
 
   transition: background-color 1s;
   margin:0 auto;
